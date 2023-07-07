@@ -208,13 +208,22 @@ blockquote span::before {
 }
 
 .mail {
-  color: var(--gray20);
-  margin-block: 40px;
+  color: black;
+  margin-block: 30px;
+  font-size: large;
+  text-align: center;
+}
+
+.logo{
+display: flex;
+justify-content: center;
 }
 
 .mail-ancla {
   text-decoration: none;
-  color: var(--gray40);
+  color: black;
+  display: block;
+  text-align: center;
 }
 
 .footer {
