@@ -22,7 +22,7 @@ body {
 }
 
 .hero {
-  background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/fondohero.png);
+  background-image: linear-gradient(to top, #e9de449d, transparent), url(../img/New\ Banner.png);
   /* background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/webdeveloper.jpg); */
   background-repeat: no-repeat;
   background-position: center;
@@ -48,7 +48,7 @@ hr {
 }
 
 h2 {
-  text-shadow: 7px 4px 5px blueviolet;
+  text-shadow: 7px 4px 5px rgb(1, 0, 2);
   font-size: 2em;
   margin-block-start: 64px;
   margin-block-end: 40px;
@@ -274,7 +274,7 @@ blockquote span::before {
     line-height: 24px;
   }
   h1 {
-    text-shadow: 7px 4px 5px blueviolet;
+    text-shadow: 7px 4px 5px rgb(3, 0, 5);
     font-size: 60px;
     margin-block-start: 64px;
   }
